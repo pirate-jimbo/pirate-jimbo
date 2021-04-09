@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jimmugdho" target="blank"><img src="https://img.shields.io/twitter/follow/jimmugdho?logo=twitter&style=for-the-badge" alt="jimmugdho" /></a> </p>
 
-- 🔭 I’m currently working on [Aust Mars Rover](www.linkedin.com/in/aust-mars-rover/)
+- 🔭 I’m currently working on [Aust Mars Rover](https://www.linkedin.com/in/aust-mars-rover/)
 
 - 📫 How to reach me **minhajulislam.aust@gmail.com**
 
