@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Minhajul Islam Jim</h1>
+<h1 align="center">Hi 👋, I'm Minhajul Islam</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirate-jimbo&label=Profile%20views&color=0e75b6&style=flat" alt="pirate-jimbo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirate-jimbo" alt="pirate-jimbo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jimmugdho" target="blank"><img src="https://img.shields.io/twitter/follow/jimmugdho?logo=twitter&style=for-the-badge" alt="jimmugdho" /></a> </p>
 
-- 🔭 I’m currently working on [Aust Mars Rover](https://www.linkedin.com/in/aust-mars-rover/)
+<!-- - 🔭 I’m currently working on [Aust Mars Rover](https://www.linkedin.com/in/aust-mars-rover/) -->
 
 - 📫 How to reach me **minhajulislam.aust@gmail.com**
 
