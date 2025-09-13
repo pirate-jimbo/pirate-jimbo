@@ -2,7 +2,7 @@
 <h4>💻 Software Engineer | Customer Success & SQA Enthusiast</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirate-jimbo&label=Profile%20views&color=0e75b6&style=flat" alt="pirate-jimbo" /> </p>
-I’m passionate about building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
+<h6>I’m passionate about building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
 
 🔧 Tech Stack & Skills:
 
@@ -30,7 +30,7 @@ Increases efficiency
 Solves meaningful problems (especially in healthcare & education)
 
 🌱 Currently Exploring:
-Opportunities to blend development, QA, and product thinking to create impactful solutions.
+Opportunities to blend development, QA, and product thinking to create impactful solutions.</h6>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirate-jimbo" alt="pirate-jimbo" /></a> </p>
 
