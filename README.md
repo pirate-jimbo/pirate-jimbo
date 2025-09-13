@@ -1,36 +1,38 @@
 <h1 align="center">Hi 👋, I'm Minhajul Islam</h1>
-<h4>💻 Software Engineer | Customer Success & SQA Enthusiast</h4>
+<h4>💻 Software Engineer | Business Analyst | QA & BI Enthusiast</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirate-jimbo&label=Profile%20views&color=0e75b6&style=flat" alt="pirate-jimbo" /> </p>
-<h6>I’m passionate about building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
+<h5>I’m passionate about building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
 
-🔧 Tech Stack & Skills:
+<h5>I’m passionate about building reliable, scalable, and impactful software that solves real-world problems. With a blend of full-stack development, software quality assurance, and business intelligence, I bring a 360° perspective — from understanding business needs to delivering tested, production-ready solutions.
 
-Frontend: JavaScript, React
+🛠 Tech Toolbox
 
-Backend: Node.js
+Frontend: React, JavaScript (ES6+), Tailwind CSS
 
-Database: MongoDB
+Backend: Node.js, Express.js
 
-QA: Manual testing, debugging, structured test planning
+Database: MongoDB, NoSQL
 
-Other: Product thinking, user-centric approach
+QA & Testing: Manual Testing, Debugging, Test Planning, Exploratory Testing
 
-🎓 Background:
-Graduated with a B.Sc. in CSE from Ahsanullah University of Science and Technology.
-My journey started with competitive programming and grew into full-stack development, QA, and product-focused roles.
+Business & Data: Business Analysis, BI Reporting, Requirement Gathering
 
-🚀 What Drives Me:
-I love building software that:
+Other: Agile Workflow, Product Thinking, Problem-Solving
 
-Improves user experience
+🎯 What I Bring to the Table
 
-Increases efficiency
+✅ Build scalable, maintainable applications aligned with business goals
+✅ Translate business requirements into actionable technical solutions
+✅ Ensure software quality through structured testing & QA processes
+✅ Use data & BI insights to support decision-making and product improvements
+✅ Blend engineering, QA, and business intelligence for real-world impact
 
-Solves meaningful problems (especially in healthcare & education)
+🌟 Current Focus
 
-🌱 Currently Exploring:
-Opportunities to blend development, QA, and product thinking to create impactful solutions.</h6>
+🔹 Deepening expertise in Business Analysis & BI tools
+🔹 Exploring end-to-end QA processes and automation
+🔹 Working on projects that improve user experience & drive efficiency</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirate-jimbo" alt="pirate-jimbo" /></a> </p>
 
