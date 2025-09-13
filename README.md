@@ -5,7 +5,7 @@
 
 <h4>I’m passionate about building reliable, scalable, and impactful software that solves real-world problems. With a blend of full-stack development, software quality assurance, and business intelligence, I bring a 360° perspective — from understanding business needs to delivering tested, production-ready solutions.
   
-🛠 Tech Toolbox
+<p>🛠 Tech Toolbox</p>
 
 💻 Programming Languages:
 TypeScript • C# • C++ • Java • Python
