@@ -1,38 +1,47 @@
 <h1 align="center">Hi 👋, I'm Minhajul Islam</h1>
-<h4>💻 Software Engineer | Business Analyst | QA & BI Enthusiast</h4>
+<h3>💻 Software Engineer | Business Analyst | QA & BI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirate-jimbo&label=Profile%20views&color=0e75b6&style=flat" alt="pirate-jimbo" /> </p>
-<h5>I’m passionate about building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
 
-<h5>I’m passionate about building reliable, scalable, and impactful software that solves real-world problems. With a blend of full-stack development, software quality assurance, and business intelligence, I bring a 360° perspective — from understanding business needs to delivering tested, production-ready solutions.
+<h4>I’m passionate about building reliable, scalable, and impactful software that solves real-world problems. With a blend of full-stack development, software quality assurance, and business intelligence, I bring a 360° perspective — from understanding business needs to delivering tested, production-ready solutions.
 
 🛠 Tech Toolbox
 
-Frontend: React, JavaScript (ES6+), Tailwind CSS
+💻 Programming Languages:
+TypeScript • C# • C++ • Java • Python
 
-Backend: Node.js, Express.js
+⚡ Frameworks & Libraries:
+React.js • Express.js • .NET • Tailwind CSS
 
-Database: MongoDB, NoSQL
+🗄️ Databases:
+PostgreSQL • MS SQL • MySQL • MongoDB
 
-QA & Testing: Manual Testing, Debugging, Test Planning, Exploratory Testing
+🧪 QA & Testing:
+Black Box Testing • White Box Testing • Requirement Analysis • Test Planning
+Test Case Design & Review • Test Report Creation • Bug Reporting • Execution & Evaluation
 
-Business & Data: Business Analysis, BI Reporting, Requirement Gathering
+📊 Business & Data:
+Business Analysis • BI Reporting • Requirement Gathering
 
-Other: Agile Workflow, Product Thinking, Problem-Solving
+🧠 Concepts:
+SDLC • STLC • OOP • Agile Workflow
 
 🎯 What I Bring to the Table
 
-<p>✅ Build scalable, maintainable applications aligned with business goals</p>
-<p>✅ Translate business requirements into actionable technical solutions</p>
-<p>✅ Ensure software quality through structured testing & QA processes</p>
-<P>✅ Use data & BI insights to support decision-making and product improvements</P>
-<p>✅ Blend engineering, QA, and business intelligence for real-world impact</p>
+<p>✅ Write type-safe, scalable code with TypeScript & C#</p>
+<p>✅ Design & query relational databases (PostgreSQL, MS SQL, MySQL) + leverage NoSQL solutions</p>
+<p>✅ Ensure software quality through structured QA processes & edge-case testing</p>
+<P>✅ Translate business requirements into actionable solutions</P>
+<p>✅ Use data & BI insights to support decision-making and product improvements</p>
+<p>✅ Collaborate in Agile environments, bridging Dev, QA, and Product teams</p>
 
 🌟 Current Focus
 
+<p>🔹 Mastering complex SQL queries & database performance tuning</p>
+<p>🔹 Strengthening TypeScript & .NET application architecture skills</p>
 <p>🔹 Deepening expertise in Business Analysis & BI tools</p>
-<p>🔹 Exploring end-to-end QA processes and automation</p>
-<p>🔹 Working on projects that improve user experience & drive efficiency</p></h5>
+<p>🔹 Exploring end-to-end QA processes & test automation</p>
+<p>🔹 Building knowledge in CI/CD pipelines & DevOps workflows</p></h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirate-jimbo" alt="pirate-jimbo" /></a> </p>
 
