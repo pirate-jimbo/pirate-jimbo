@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirate-jimbo&label=Profile%20views&color=0e75b6&style=flat" alt="pirate-jimbo" /> </p>
 
-<h4>I’m passionate about building reliable, scalable, and impactful software that solves real-world problems. With a blend of full-stack development, software quality assurance, and business intelligence, I bring a 360° perspective — from understanding business needs to delivering tested, production-ready solutions.
+<h5>I’m passionate about building reliable, scalable, and impactful software that solves real-world problems. With a blend of full-stack development, software quality assurance, and business intelligence, I bring a 360° perspective — from understanding business needs to delivering tested, production-ready solutions.
   
-<p>🛠 Tech Toolbox</p>
+<h5>🛠 Tech Toolbox</h5>
 
 💻 Programming Languages:
 TypeScript • C# • C++ • Java • Python
@@ -41,7 +41,7 @@ SDLC • STLC • OOP • Agile Workflow
 <p>🔹 Strengthening TypeScript & .NET application architecture skills</p>
 <p>🔹 Deepening expertise in Business Analysis & BI tools</p>
 <p>🔹 Exploring end-to-end QA processes & test automation</p>
-<p>🔹 Building knowledge in CI/CD pipelines & DevOps workflows</p></h4>
+<p>🔹 Building knowledge in CI/CD pipelines & DevOps workflows</p></h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirate-jimbo" alt="pirate-jimbo" /></a> </p>
 
