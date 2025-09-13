@@ -1,13 +1,43 @@
 <h1 align="center">Hi 👋, I'm Minhajul Islam</h1>
-- 💻 Software Engineer | Customer Success & SQA Enthusiast
+💻 Software Engineer | Customer Success & SQA Enthusiast
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirate-jimbo&label=Profile%20views&color=0e75b6&style=flat" alt="pirate-jimbo" /> </p>
+
+I’m passionate about building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
+
+🔧 Tech Stack & Skills:
+
+Frontend: JavaScript, React
+
+Backend: Node.js
+
+Database: MongoDB
+
+QA: Manual testing, debugging, structured test planning
+
+Other: Product thinking, user-centric approach
+
+🎓 Background:
+Graduated with a B.Sc. in CSE from Ahsanullah University of Science and Technology.
+My journey started with competitive programming and grew into full-stack development, QA, and product-focused roles.
+
+🚀 What Drives Me:
+I love building software that:
+
+Improves user experience
+
+Increases efficiency
+
+Solves meaningful problems (especially in healthcare & education)
+
+🌱 Currently Exploring:
+Opportunities to blend development, QA, and product thinking to create impactful solutions.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirate-jimbo" alt="pirate-jimbo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jimmugdho" target="blank"><img src="https://img.shields.io/twitter/follow/jimmugdho?logo=twitter&style=for-the-badge" alt="jimmugdho" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Aust Mars Rover](https://www.linkedin.com/in/aust-mars-rover/) -->
-<p>I’m Minhajul Islam, a passionate Software Engineer with experience in Customer Success and Software Quality Assurance. I thrive on building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
+<!-- <p>I’m Minhajul Islam, a passionate Software Engineer with experience in Customer Success and Software Quality Assurance. I thrive on building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
 
 With a strong foundation in full-stack web development, my technical toolkit includes JavaScript, React, Node.js, and MongoDB. I’m also skilled in manual testing, debugging, and ensuring software quality through structured testing processes and user-centric thinking.
 
@@ -15,7 +45,7 @@ My journey began with a degree in Computer Science and Engineering from Ahsanull
 
 I'm especially passionate about building software that improves user experience, drives efficiency, and makes a difference—particularly in industries like healthcare and education. I’m currently exploring new opportunities where I can blend my development skills, QA mindset, and product-thinking to contribute to impactful teams.
 
-Let’s connect and explore how we can collaborate, share insights, or build something great together!</p>
+Let’s connect and explore how we can collaborate, share insights, or build something great together!</p> -->
 
 - 📫 How to reach me **minhajulislam.aust@gmail.com**
 
