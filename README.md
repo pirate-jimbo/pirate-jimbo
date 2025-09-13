@@ -6,6 +6,15 @@
 <p align="left"> <a href="https://twitter.com/jimmugdho" target="blank"><img src="https://img.shields.io/twitter/follow/jimmugdho?logo=twitter&style=for-the-badge" alt="jimmugdho" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Aust Mars Rover](https://www.linkedin.com/in/aust-mars-rover/) -->
+<p>I’m Minhajul Islam, a passionate Software Engineer with experience in Customer Success and Software Quality Assurance. I thrive on building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
+
+With a strong foundation in full-stack web development, my technical toolkit includes JavaScript, React, Node.js, and MongoDB. I’m also skilled in manual testing, debugging, and ensuring software quality through structured testing processes and user-centric thinking.
+
+My journey began with a degree in Computer Science and Engineering from Ahsanullah University of Science and Technology, and I’ve been continuously evolving ever since. From competitive programming days to real-world experience in QA and product-focused roles, I’m committed to learning, growing, and solving meaningful problems.
+
+I'm especially passionate about building software that improves user experience, drives efficiency, and makes a difference—particularly in industries like healthcare and education. I’m currently exploring new opportunities where I can blend my development skills, QA mindset, and product-thinking to contribute to impactful teams.
+
+Let’s connect and explore how we can collaborate, share insights, or build something great together!</p>
 
 - 📫 How to reach me **minhajulislam.aust@gmail.com**
 
