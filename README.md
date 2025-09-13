@@ -22,17 +22,17 @@ Other: Agile Workflow, Product Thinking, Problem-Solving
 
 🎯 What I Bring to the Table
 
-✅ Build scalable, maintainable applications aligned with business goals
-✅ Translate business requirements into actionable technical solutions
-✅ Ensure software quality through structured testing & QA processes
-✅ Use data & BI insights to support decision-making and product improvements
-✅ Blend engineering, QA, and business intelligence for real-world impact
+<p>✅ Build scalable, maintainable applications aligned with business goals</p>
+<p>✅ Translate business requirements into actionable technical solutions</p>
+<p>✅ Ensure software quality through structured testing & QA processes</p>
+<P>✅ Use data & BI insights to support decision-making and product improvements</P>
+<p>✅ Blend engineering, QA, and business intelligence for real-world impact</p>
 
 🌟 Current Focus
 
-🔹 Deepening expertise in Business Analysis & BI tools
-🔹 Exploring end-to-end QA processes and automation
-🔹 Working on projects that improve user experience & drive efficiency</h5>
+<p>🔹 Deepening expertise in Business Analysis & BI tools</p>
+<p>🔹 Exploring end-to-end QA processes and automation</p>
+<p>🔹 Working on projects that improve user experience & drive efficiency</p></h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirate-jimbo" alt="pirate-jimbo" /></a> </p>
 
