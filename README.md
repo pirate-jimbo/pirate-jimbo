@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minhajul Islam</h1>
 💻 Software Engineer | Customer Success & SQA Enthusiast
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirate-jimbo&label=Profile%20views&color=0e75b6&style=flat" alt="pirate-jimbo" /> </p>
 
 I’m passionate about building dynamic, scalable applications and contributing to projects that drive innovation and real-world impact.
